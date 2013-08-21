@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Pull myself up by my own bootstraps.
+title: Drowning in Information
+tagline: 
 ---
 {% include JB/setup %}
 
@@ -11,4 +11,7 @@ tagline: Pull myself up by my own bootstraps.
         <p>{{ post.content | strip_html | truncatewords:75}}</p>
         <a href="{{ post.url }}" class="btn">Read more...</a><br><br>
     {% endfor %}
+    
+    <hr />
+    <center><a href="/archive.html">~~ Browse Archive ~~</a></center>
 </div>
