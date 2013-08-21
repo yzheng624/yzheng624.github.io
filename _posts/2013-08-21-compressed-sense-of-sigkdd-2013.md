@@ -58,7 +58,7 @@ Heterogeneous Information Network 是最近比较火领域，这种火热得益�
 
 我也算参加过两届 KDD Cup 的人了（偷笑 ^_^），一次看完题之后就果断放弃（Tecent Weibo），另一次是是用 Sample 代码改了改，提交上去获得了极大的两位数排名，之后就没精力改了。一是因为没有时间，KDD Cup 总是在期中考试左右考试，期末考试之前结束，这就导致了不得不把它的优先级调低。再者，我对 Data Minning 也没有过深的了解，更不用说充满 tricks 的 Data Mining 竞赛了。
 
-Missouri 是个小会场，只能坐 60 个人左右，只能站在后面，作为一个一直想认真地参加一次 KDD Cup 的选手，还是有点小激动。
+Missouri 是个小会场，只能坐 60 个人左右，我也只好站在后面，作为一个一直想认真地参加一次 KDD Cup 的选手，还是有点小激动。
 
 听过几个选手的 slides 才明白，KDD Cup 是一场关于创建有效的 feature 和实现好多算法并进行 ensemble 的比赛。这并不是 research 中的不断完善一个模型直至 state-of-the-art。
 
@@ -113,3 +113,4 @@ Optimization
 
 - 没有和同行交流
 - 知识储备不够，Data Mining 太宏观
+- 好好学英语，多听风味英语
