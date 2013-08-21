@@ -20,6 +20,8 @@ tags: []
 
 Heterogeneous Information Network 是最近比较火领域，这种火热开始于 Jiawei Han 的得意门生，去年刚博士毕业就在 Northeastern University 做 Assistant Professor 的 [Yizhou Sun](http://www.ccs.neu.edu/home/yzsun/)。
 
+#### Large Graph Mining – Patterns, tools and cascade analysis [slides](http://www.slideshare.net/BigDataMining/large-graph-mining-patterns-tools-and-cascade-analysis-by-christos-faloutsos)
+
 ### Day Two
 
 ### Day Three
