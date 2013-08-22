@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Hello World
+title : Drowning in Information
 tagline: Pull myself up by my own bootstraps.
 author :
   name : Zheng Yan
   email : yzheng624@gmail.com
   github : yzheng624
   twitter : forgetthisuser
-  feedburner : feedname
+  feedburner : Drowning in Information
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
