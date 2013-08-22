@@ -70,49 +70,78 @@ Missouri 是个小会场，只能坐 60 个人左右，我也只好站在后面�
 
 #### Scale-out Beyond Map-Reduce
 
+Microsoft 的印度大佬讲 Microsoft 开发的一款开源 Big Data Framework [REEF](http://gigaom.com/2013/08/12/microsoft-to-open-source-a-big-data-framework-called-reef/)。他说，Hadoop 的 Map 功能对于需要不断迭代的算法来说不是很有利，而他们的 Framework 可以支持迭代。在迭代的时候，只用 Map 一次，所以就不用多次传输数据了。
 
+因为没有过 Hadoop，也没有看出来 REEF 有什么很大的创新，大概是代码难度比较大吧。
 
 #### Document and Topic Models
 
+坑挖得有点太大了，每个 Research Topic 我就选一篇谈谈感受吧。
 
+##### Representing Documents Through Their Readers
+
+这篇论文还是比较有意思的。通过 Twitter 上用户分享的新闻和他们的 Bio 之间的关系，用 Topic Model 抓取任意新闻可能对应的标签。不过我比较怀疑 Twitter 用户的 Bio 的质量。
 
 #### The Online Revolution: Education for Everyone
 
-Andrew Ng!!!
+Andrew Ng 讲 Coursera 和 Data Mining 在 Coursera 上的应用。
+
+熟悉的场景，因为有事未能到场，Andrew Ng 出现在会场前的大屏幕上。又有点激动了，当 Andrew Ng 说通过 ml-class.org 招到了数十万的学生时，他能想到他的其中一位学生正坐在会场嘛？
 
 #### Classification
 
+##### Querying Discriminative and Representative Samples for Batch Mode Active Learning
+
+当有 Domain Expert 的时候如何有效利用？如何把困难的问题交给 Domain Expert？
+
 ### Day Three
 
-#### Optimization in Learning and Data Analysis
+#### Optimization in Learning and Data Analysis [slides](http://pages.cs.wisc.edu/~swright/wright-kdd-2013.pdf)
 
-Optimization
+Stephen Wright 是 Numerical Optimization 的作者之一。
+
+先是回顾了一下 Machine Learning 的 Optimization 问题，和如何解决。最后谈了一下多核情况下的 Optimization，asynchronous multicore algorithms。
 
 #### Graph clustering
 
+##### Clustered Graph Randomization: Network Exposure to Multiple Universes
+
+互联网公司在为需要好友之间互动的 App 做 A/B Test 的时候如何从用户群中选一个好的 Cluster？来自 Facebook 的答案。
 
 #### ACM SIGKDD Business Meeting
 
-遇到了在 Yahoo! Labs 工作的工作人员。
-
+本来一位只是午餐的，看到桌子上的一盘沙拉不知如何下嘴。好在吃完沙拉后终于上主菜了~
 
 #### Panel: “A Data Scientist’s Guide to Making Money from Start-ups”
 
+这个就比较欢乐了。台上的拥有 Ph.D. 学位的 Data Mining 方向的创业大佬们不断鼓动台下的 Ph.D. Candidate 创业，甚至说创业对 Data Scientist 来说毫无风险，因为即使创业失败，Data Scientist 还是很容易找到很高工资的工作。最后甚至劝阻本科生毕业就读 Ph.D，认为他们根本不知道世界上实际需要解决的问题是什么，写出来的东西都毫无用处。这可惹恼了台下的一众 Professor。Rakesh Agrawal 直接上来抢话筒，说去 start-up 的就是为了钱，但我们做 research 的可以解决真正困难的问题~
+
 #### Scalable Methods for Big Data
 
+##### Comparing Apples to Oranges: A Scalable Solution with Heterogeneous Hashing
+
+就是根据 Heterogeneous Network 节点之间 Relation 做 Hashing，并且为不同类型对的节点提供不同的 Hamming Space。
+
 #### Social and Information Networks
+
+##### Collaborative Boosting for Activity Classification in Microblogs
 
 ### Day Four
 
 #### Predicting the Present with Search Engine Data
 
+Google
 
 #### Web Mining
 
+##### Exploring Consumer Psychology for Click Prediction in Sponsored Search
+
+Psychology 看起来是很难分析的，但来自 Bing 的研究者用 Bag-of-words Model 加上人工标注的 Cluster 成功识别了五种 Psychology。
 
 #### Best Papers Session
 
+#### 遗憾
 
 - 没有和同行交流
 - 知识储备不够，Data Mining 太宏观
-- 好好学英语，多听风味英语
+- 好好学英语，多听印度英语
