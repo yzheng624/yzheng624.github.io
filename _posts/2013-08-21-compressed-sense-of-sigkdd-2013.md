@@ -62,7 +62,9 @@ Missouri 是个小会场，只能坐 60 个人左右，我也只好站在后面�
 
 听过几个选手的 slides 才明白，KDD Cup 是一场关于创建有效的 feature 和实现好多算法并进行 ensemble 的比赛。这并不是 research 中的不断完善一个模型直至 state-of-the-art。
 
-最后一组居然是 LIBSVM 的作者 [Chih-Jen Lin](http://www.csie.ntu.edu.tw/~cjlin/) 老师讲，其实也并不意外，Chih-Jen Lin 老师带的学生每年都至少要拿一个第一的。Chih-Jen Lin 老师带领的参赛队有足足三十多人，他解释说他在[国立台湾大学](http://www.ntu.edu.tw/)为 KDD Cup 开了一门课！招的 30 多个学生，在开始的几周会进行 Data Mining 的教学，之后就分组挑战 KDD Cup。这太有趣了，国立台湾大学也很开明，有这么一个项目驱动的课程，自己学下来也会很有动力吧。负责的 TA 甚至为了平衡各组提交答案查看评价而写了一个系统。
+最后一组居然是 LIBSVM 的作者 [Chih-Jen Lin](http://www.csie.ntu.edu.tw/~cjlin/) 老师讲，其实也并不意外，Chih-Jen Lin 老师带的学生每年都至少要拿一个第一的。Chih-Jen Lin 老师带领的参赛队有足足三十多人，他解释说他在[国立台湾大学](http://www.ntu.edu.tw/)为 KDD Cup 开了一门课！招的 30 多个学生，在开始的几周会进行 Data Mining 的教学，之后就分组挑战 KDD Cup。这太有趣了，国立台湾大学也很开明，有这么一个项目驱动的课程，自己学下来也会很有动力吧。负责的 TA 甚至为了平衡各组提交答案查看评价而写了一个决策系统。
+
+晚上去 Pei Wei Asian Diner 吃 Traditional Chicken 居然遇到 Philip Yu 和 Jiawei Han 的学生在一起吃饭，看来我们吃的地方也不错嘛~
 
 ### Day Two
 
