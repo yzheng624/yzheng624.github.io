@@ -136,12 +136,29 @@ Google
 
 ##### Exploring Consumer Psychology for Click Prediction in Sponsored Search
 
-Psychology 看起来是很难分析的，但来自 Bing 的研究者用 Bag-of-words Model 加上人工标注的 Cluster 成功识别了五种 Psychology。
+Psychology 看起来是很难分析的，但来自 Bing 的研究者用 Bag-of-Words Model 加上人工标注的 Cluster 成功识别了五种 Psychology。利用所谓的情感，将 CTR 提升了 7% 左右~ 
 
 #### Best Papers Session
 
+##### Simple and Deterministic Matrix Sketching
+
+##### A space efficient streaming algorithm for triangle counting using the birthday paradox
+
+#####  Amplifying the Voice of Youth in Africa via Text Analytics
+
+
 #### 遗憾
 
-- 没有和同行交流
-- 知识储备不够，Data Mining 太宏观
-- 好好学英语，多听印度英语
+确实有很多值得遗憾的地方：
+
+1. 没有和同行交流
+
+    在 Refreshments Break 的时候，几乎所有研究者都在和同行三五成群地交谈，不管认识不认识。
+
+2. 知识储备不够，Data Mining 太宏观
+
+    从 Classification 到 Hadoop，SIGKDD 从理论谈到前沿应用。
+
+3. 好好学英语，多听带口音的英语
+
+    老美的口语好听，一听就懂。但遇到口音很重，又语速很快的印度人或者东欧人，他们的发音还是很难听懂的。
