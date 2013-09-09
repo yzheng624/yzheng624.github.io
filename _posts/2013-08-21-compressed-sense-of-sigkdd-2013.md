@@ -56,7 +56,7 @@ Heterogeneous Information Network 是最近比较火领域，这种火热得益�
 
 #### KDD Cup Workshop [url](http://www.kdd.org/kddcup2013/)
 
-我也算参加过两届 KDD Cup 的人了（偷笑 ^_^），一次看完题之后就果断放弃（Tecent Weibo），另一次是是用 Sample 代码改了改，提交上去获得了极大的两位数排名，之后就没精力改了。一是因为没有时间，KDD Cup 总是在期中考试左右考试，期末考试之前结束，这就导致了不得不把它的优先级调低。再者，我对 Data Minning 也没有过深的了解，更不用说充满 tricks 的 Data Mining 竞赛了。
+我也算参加过两届 KDD Cup 的人了（偷笑 ^_^），一次看完题之后就果断放弃（Tecent Weibo），另一次是是用 Sample 代码改了改，提交上去获得了极大的两位数排名，之后就没精力改了。一是因为没有时间，KDD Cup 总是在期中考试左右开始，期末考试之前结束，这就导致了不得不把它的优先级调低。再者，我对 Data Minning 也没有过深的了解，更不用说充满 tricks 的 Data Mining 竞赛了。
 
 Missouri 是个小会场，只能坐 60 个人左右，我也只好站在后面，作为一个一直想认真地参加一次 KDD Cup 的选手，还是有点小激动。
 
@@ -142,17 +142,20 @@ Psychology 看起来是很难分析的，但来自 Bing 的研究者用 Bag-of-W
 
 ##### Simple and Deterministic Matrix Sketching
 
+机器学习是和 Matrix 紧密相关的。
+
 ##### A space efficient streaming algorithm for triangle counting using the birthday paradox
+
+在 Data Mining 中引入 Birthday Paradox 让人眼前一亮。
 
 #####  Amplifying the Voice of Youth in Africa via Text Analytics
 
+Data Mining 真的可以帮助好多人。
 
 #### 遗憾
 
 确实有很多值得遗憾的地方：
 
 1. 没有和同行交流：在 Refreshments Break 的时候，几乎所有研究者都在和同行三五成群地交谈，不管认识不认识。
-
 2. 知识储备不够，Data Mining 太宏观：从 Classification 到 Hadoop，SIGKDD 从理论谈到前沿应用。
-
 3. 好好学英语，多听带口音的英语：老美的口语好听，一听就懂。但遇到口音很重，又语速很快的印度人或者东欧人，他们的发音还是很难听懂的。
